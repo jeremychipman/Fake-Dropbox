@@ -14,7 +14,9 @@ class settingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
 scrollView.contentSize=CGSize(width: 320, height: 772)
+        
         // Do any additional setup after loading the view.
     }
 
